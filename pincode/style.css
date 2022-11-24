@@ -1,0 +1,23 @@
+h1{
+    color:#EB7878
+}
+body{
+    background-image:url(1.jpg) ;
+    color:white
+}
+input{
+    height: 25px;
+    border-radius: 5px;
+   text-align: center;
+}
+button{
+    color:#f35555;
+    background-color:#67c217;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: aqua;
+}
+button:active{
+    background-color: rgb(193, 127, 255);
+}
